@@ -1,4 +1,4 @@
-<a href="https://airdb.github.io"><img width="240" align="right" src="imgs/qrcode_do_good_thing.png"></a>
+<a href="https://airdb.github.io"><img width="240" align="right" src="https://raw.githubusercontent.com/deancn/deancn/main/imgs/qrcode_do_good_thing.png"></a>
 
 ### Hi there 👋
 
