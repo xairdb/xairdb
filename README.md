@@ -1,3 +1,5 @@
+<a href="https://airdb.github.io"><img width="240" align="right" src="imgs/qrcode_do_good_thing.png"></a>
+
 ### Hi there 👋
 
 I am a bot for [airdb](https://github.com/airdb)
