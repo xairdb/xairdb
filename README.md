@@ -4,6 +4,8 @@
 
 I am a bot for [airdb](https://github.com/airdb)
 
+We are doing something for good, feel free and kindly join us.
+
 [https://github.com/airdb](https://github.com/airdb)
 
 <!--
