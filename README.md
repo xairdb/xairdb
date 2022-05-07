@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a bot for [airdb](https://github.com/airdb)
+
+[https://github.com/airdb](https://github.com/airdb)
+
 <!--
 **xairdb/xairdb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
